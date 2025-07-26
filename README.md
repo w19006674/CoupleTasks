@@ -10,4 +10,7 @@ and tracking tasks completed through a leaderboard.
 - NetBeans (IDE)
 
 ---
-This project gave me practical experience in UI development, project structure, and manual testing.
+This project gave me practical experience
+- Designing and building a functional UI
+- Managing project strcture using Maven
+- Manually testing key features (UI interactions, task allocation buttons)
