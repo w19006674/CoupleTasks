@@ -1,7 +1,6 @@
 # CoupleTasks
 
 CoupleTasks is a Java Swing desktop application designed to help couples manage and track their shared responsibilities. The app allows users to schedule tasks, complete them, and view leaderboard progress to encourage balanced participation.
-
 ---
 
 - Java (Swing for GUI)
